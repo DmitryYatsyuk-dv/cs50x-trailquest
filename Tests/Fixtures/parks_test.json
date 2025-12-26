@@ -1,0 +1,41 @@
+{
+  "parks": [
+    {
+      "id": 1,
+      "name": "Test Park",
+      "description": "Test description",
+      "location": { "lat": 55.0, "lng": 37.0 },
+      "image_url": "test_park",
+      "tags": ["family", "city"],
+      "checkpoints": [
+        {
+          "id": 101,
+          "sequence_number": 1,
+          "name": "Gate",
+          "location": { "lat": 55.0, "lng": 37.0 },
+          "beacon_id": "beacon-101",
+          "manual_code": "1234",
+          "qr_code": "QR101"
+        },
+        {
+          "id": 102,
+          "sequence_number": 2,
+          "name": "Lake",
+          "location": { "lat": 55.001, "lng": 37.001 },
+          "beacon_id": "beacon-102",
+          "manual_code": null,
+          "qr_code": "QR102"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Second Park",
+      "description": "Another park",
+      "location": { "lat": 56.0, "lng": 38.0 },
+      "image_url": "second_park",
+      "tags": [],
+      "checkpoints": []
+    }
+  ]
+}

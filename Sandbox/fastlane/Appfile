@@ -1,0 +1,4 @@
+ENV["SLACK_URL"] = ""
+ENV["PROJECT_TARGET"] = "TrailQuest"
+ENV['BUNDLE_ID_STORE'] = "com.trailquest.app"
+ENV['FASTLANE_ITC_TEAM_NAME'] = "TrailQuest"

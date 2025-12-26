@@ -1,0 +1,8 @@
+strings:
+  inputs:
+    - ./ru.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: ./Generated/LocalizedStrings.swift
+      params:
+        enumName: L10n

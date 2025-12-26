@@ -1,0 +1,103 @@
+// MARK: - Main
+"app.name" = "TrailQuest";
+
+// MARK: - Common
+"common.cancel" = "Cancel";
+"common.close" = "Close";
+"common.delete" = "Delete";
+"common.got_it" = "Got it";
+"common.ok" = "OK";
+"common.settings" = "Settings";
+
+// MARK: - Tab
+"tab.routes" = "Routes";
+"tab.history" = "History";
+"tab.profile" = "Profile";
+
+// MARK: - TrailList
+"trail_list.title" = "Routes";
+"trail_list.failure" = "Failed to load data";
+
+// MARK: - TrailDetail
+"trail_detail.start" = "Start";
+"trail_detail.points_count" = "Number of checkpoints: %d";
+
+// MARK: - TrailActive
+"trail_active.demo_alert" = "Demo mode is enabled.\nBluetooth and camera permissions are required for real routes.";
+"trail_active.already_visited" = "You already visited this location!";
+
+// MARK: - Distance
+"distance.km" = "%.1f km";
+"duration.zero_short" = "00:00";
+"duration.zero_long" = "00:00:00";
+
+// MARK: - History
+"history.title" = "History";
+"history.empty" = "Competition history\nwill appear here";
+"history.progress" = "visited %d of %d";
+
+// MARK: - Summary
+"summary.share_text" = "I completed the route %@: %@, time %@.";
+
+// MARK: - Checkin
+"checkin.sheet.subtitle" = "Check in at the checkpoint,\nusing one of the methods";
+"checkin.manual.title" = "Enter code";
+"checkin.manual.placeholder" = "e.g., 1284";
+"checkin.manual.invalid" = "Invalid code. Try again.";
+"checkin.qr.title" = "Check in via QR";
+"checkin.qr.title_demo" = "Check in via QR (demo)";
+"checkin.qr.subtitle" = "Point the camera at the code";
+"checkin.ble.title" = "Automatic check-in";
+"checkin.ble.title_demo" = "Automatic check-in (demo)";
+"checkin.ble.subtitle" = "Uses a nearby BLE beacon";
+"checkin.demo.note" = "Demo mode. Checkpoints are marked automatically.";
+"checkin.result.success" = "Checked in!";
+"checkin.result.failure" = "Check-in failed";
+"checkin.result.retry" = "Try again";
+"checkin.ble.search_title" = "Searching for BLE beacon";
+"checkin.ble.search_message" = "Keep your device near the checkpoint. Once the beacon is found, check-in will be available.";
+"checkin.ble.found" = "Beacon found";
+"checkin.ble.confirm" = "Confirm check-in";
+"checkin.ble.searching" = "Searching for a nearby BLE beacon…";
+"checkin.ble.alert_title" = "BLE unavailable";
+"checkin.ble.permission_message" = "Allow location access to detect BLE beacons and confirm the checkpoint.";
+
+// MARK: - QR
+"qr.alert.title" = "Camera access denied";
+"qr.permission.denied" = "Camera access was denied";
+"qr.permission.settings" = "Enable camera access in Settings";
+"qr.permission.default_message" = "Allow camera access to scan QR codes.";
+"qr.camera.unavailable" = "Camera unavailable";
+"qr.camera.configure_failed" = "Failed to configure the camera";
+"qr.banner.scanning" = "Scanning…";
+"qr.instruction" = "Point the camera at the checkpoint QR code";
+"qr.detected" = "QR detected";
+
+// MARK: - Profile
+"profile.title" = "Profile";
+"profile.delete" = "Delete profile";
+"profile.save" = "Save";
+"profile.name.label" = "Name";
+"profile.photo.update" = "Update photo";
+"profile.photo.hint" = "Take a photo or choose an image from the gallery";
+"profile.photo.update_title" = "Update profile photo";
+"profile.photo.take" = "Take photo";
+"profile.photo.pick" = "Choose from library";
+"profile.camera.unavailable_title" = "Camera unavailable";
+"profile.camera.unavailable_message" = "It looks like the camera is not available on this device.";
+"profile.delete.confirm_title" = "Delete profile?";
+"profile.delete.confirm_message" = "This will delete all saved data and profile photo.";
+"profile.save.success" = "Saved";
+
+// MARK: - Onboarding
+"onboarding.back" = "Back";
+"onboarding.start" = "Start";
+"onboarding.next" = "Next";
+"onboarding.page1.title" = "Discover new routes";
+"onboarding.page1.description" = "Choose walking, sports, and cultural routes in parks and districts. Each route is a path with interesting stops and stories.";
+"onboarding.page2.title" = "Check in in different ways";
+"onboarding.page2.description" = "Mark checkpoints via QR codes, BLE beacons, or manually. Multiple check-in options make the journey convenient and interactive.";
+"onboarding.page3.title" = "See the whole route";
+"onboarding.page3.description" = "The map shows your progress:\nvisited points, distance, and time.\nYou always know what's done and what's ahead.";
+"onboarding.page4.title" = "Save and share achievements";
+"onboarding.page4.description" = "Route history is saved on the device. Share results with friends, family, or your team.";

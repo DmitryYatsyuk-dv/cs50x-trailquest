@@ -1,0 +1,21 @@
+default_platform(:ios)
+
+platform :ios do
+
+# MARK:- Lanes
+
+# Run all xcode project tests
+lane :run_unit_tests do
+  scheme_name = ENV['TEST_SCHEME']
+  workspace_name = ENV['BUILD_WORKSPACE']
+  targets_list = ENV['INCLUDE_TARGETS']
+  run_tests(scheme: scheme_name, code_coverage: true)
+  xcov(workspace: workspace_name, scheme: scheme_name, output_directory: "xcov", include_targets: targets_list, markdown_report: true, json_report: true, slack_url: "https://slack.ru", skip_slack: true, ignore_file_path: "./.xcovignore")
+end
+
+# Install CocoaPods dependencies
+lane :pod_install do
+  cocoapods()
+end
+
+end

@@ -1,0 +1,10 @@
+- CommentViewController.swift
+- MainRateAppAssembly.swift
+- MainRateAppModel.swift
+- MainRateAppComment.swift
+- MainRateAppModule.swift
+- Assets.swift
+- MainRateAppDependencies.swift
+- MainRateAppCell.swift
+- MainRateAppRouter.swift
+- MainRateAppSection.swift

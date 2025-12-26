@@ -1,0 +1,629 @@
+{
+    "parks": [
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "DEMO-BEACON-1",
+                    "id": 1,
+                    "location": { "lat": 55.824834, "lng": 37.462414 },
+                    "manual_code": "DEMO-MANUAL-1",
+                    "name": "Beaver Dam",
+                    "qr_code": "DEMO-QR-1",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-2",
+                    "id": 2,
+                    "location": { "lat": 55.826112, "lng": 37.466507 },
+                    "manual_code": "DEMO-MANUAL-2",
+                    "name": "Beaver Lodge",
+                    "qr_code": "DEMO-QR-2",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-3",
+                    "id": 3,
+                    "location": { "lat": 55.826553, "lng": 37.472315 },
+                    "manual_code": "DEMO-MANUAL-3",
+                    "name": "Tsarevna-Swan Spring",
+                    "qr_code": "DEMO-QR-3",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-4",
+                    "id": 4,
+                    "location": { "lat": 55.818006, "lng": 37.478276 },
+                    "manual_code": "DEMO-MANUAL-4",
+                    "name": "Squirrel Feeder",
+                    "qr_code": "DEMO-QR-4",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-5",
+                    "id": 5,
+                    "location": { "lat": 55.819696, "lng": 37.481667 },
+                    "manual_code": "DEMO-MANUAL-5",
+                    "name": "Waterfall",
+                    "qr_code": "DEMO-QR-5",
+                    "sequence_number": 5
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-6",
+                    "id": 6,
+                    "location": { "lat": 55.817747, "lng": 37.480087 },
+                    "manual_code": "DEMO-MANUAL-6",
+                    "name": "Beach",
+                    "qr_code": "DEMO-QR-6",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-7",
+                    "id": 7,
+                    "location": { "lat": 55.814811, "lng": 37.471227 },
+                    "manual_code": "DEMO-MANUAL-7",
+                    "name": "Estate Entrance",
+                    "qr_code": "DEMO-QR-7",
+                    "sequence_number": 7
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-8",
+                    "id": 8,
+                    "location": { "lat": 55.815015, "lng": 37.475084 },
+                    "manual_code": "DEMO-MANUAL-8",
+                    "name": "Bridge",
+                    "qr_code": "DEMO-QR-8",
+                    "sequence_number": 8
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-9",
+                    "id": 9,
+                    "location": { "lat": 55.815718, "lng": 37.469372 },
+                    "manual_code": "DEMO-MANUAL-9",
+                    "name": "Corner Tower",
+                    "qr_code": "DEMO-QR-9",
+                    "sequence_number": 9
+                },
+                {
+                    "beacon_id": "DEMO-BEACON-10",
+                    "id": 10,
+                    "location": { "lat": 55.813842, "lng": 37.476478 },
+                    "manual_code": "DEMO-MANUAL-10",
+                    "name": "Streshnevo Station",
+                    "qr_code": "DEMO-QR-10",
+                    "sequence_number": 10
+                }
+            ],
+            "description": "Pokrovskoye-Streshnevo is a natural and historical park in north-west Moscow, combining forest areas, ponds, and natural springs.",
+            "id": 1,
+            "image_url": "streshnevo",
+            "location": { "lat": 55.822114, "lng": 37.476375 },
+            "name": "Pokrovskoye-Streshnevo\n(Demo Route)",
+            "tags": ["ble", "qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "",
+                    "id": 1,
+                    "location": { "lat": 55.851202, "lng": 37.467388 },
+                    "manual_code": "2001",
+                    "name": "Northern River Terminal",
+                    "qr_code": "SEV-QR-2001",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "",
+                    "id": 2,
+                    "location": { "lat": 55.851979, "lng": 37.471453 },
+                    "manual_code": "2002",
+                    "name": "Waterway Sculpture",
+                    "qr_code": "SEV-QR-2002",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "",
+                    "id": 3,
+                    "location": { "lat": 55.852521, "lng": 37.468923 },
+                    "manual_code": "2003",
+                    "name": "Northern Bowl",
+                    "qr_code": "SEV-QR-2003",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.850667, "lng": 37.470073 },
+                    "manual_code": "2004",
+                    "name": "Southern Bowl",
+                    "qr_code": "SEV-QR-2004",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "",
+                    "id": 5,
+                    "location": { "lat": 55.848099, "lng": 37.46821 },
+                    "manual_code": "2005",
+                    "name": "Pier No. 9",
+                    "qr_code": "SEV-QR-2005",
+                    "sequence_number": 5
+                },
+                {
+                    "beacon_id": "",
+                    "id": 6,
+                    "location": { "lat": 55.852373, "lng": 37.465386 },
+                    "manual_code": "2006",
+                    "name": "Pier No. 3",
+                    "qr_code": "SEV-QR-2006",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "",
+                    "id": 7,
+                    "location": { "lat": 55.848439, "lng": 37.47183 },
+                    "manual_code": "2007",
+                    "name": "Sports Ground",
+                    "qr_code": "SEV-QR-2007",
+                    "sequence_number": 7
+                },
+                {
+                    "beacon_id": "",
+                    "id": 8,
+                    "location": { "lat": 55.844374, "lng": 37.470803 },
+                    "manual_code": "2008",
+                    "name": "Pier No. 17",
+                    "qr_code": "SEV-QR-2008",
+                    "sequence_number": 8
+                },
+                {
+                    "beacon_id": "",
+                    "id": 9,
+                    "location": { "lat": 55.85364, "lng": 37.46911 },
+                    "manual_code": "2009",
+                    "name": "Maze",
+                    "qr_code": "SEV-QR-2009",
+                    "sequence_number": 9
+                },
+                {
+                    "beacon_id": "",
+                    "id": 10,
+                    "location": { "lat": 55.855954, "lng": 37.467652 },
+                    "manual_code": "2010",
+                    "name": "Admiral F. F. Ushakov",
+                    "qr_code": "SEV-QR-2010",
+                    "sequence_number": 10
+                }
+            ],
+            "description": "An iconic architectural complex in northern Moscow, serving as a starting point for river cruises and a popular walking area with a waterfront and park.",
+            "id": 2,
+            "image_url": "severnyrechnoyvokzal",
+            "location": { "lat": 55.851068, "lng": 37.467051 },
+            "name": "Northern River Terminal",
+            "tags": ["qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "",
+                    "id": 1,
+                    "location": { "lat": 55.822544, "lng": 37.6397 },
+                    "manual_code": "3001",
+                    "name": "Monument to the Conquerors of Space",
+                    "qr_code": "VDNH-QR-3001",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "",
+                    "id": 2,
+                    "location": { "lat": 55.826409, "lng": 37.637859 },
+                    "manual_code": "3002",
+                    "name": "VDNH Main Entrance",
+                    "qr_code": "VDNH-QR-3002",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "",
+                    "id": 3,
+                    "location": { "lat": 55.832171, "lng": 37.629901 },
+                    "manual_code": "3003",
+                    "name": "Cosmos Pavilion",
+                    "qr_code": "VDNH-QR-3003",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.82804, "lng": 37.634731 },
+                    "manual_code": "3004",
+                    "name": "V. I. Lenin",
+                    "qr_code": "VDNH-QR-3004",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "",
+                    "id": 5,
+                    "location": { "lat": 55.829613, "lng": 37.632162 },
+                    "manual_code": "3005",
+                    "name": "Friendship of Nations Fountain",
+                    "qr_code": "VDNH-QR-3005",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "",
+                    "id": 6,
+                    "location": { "lat": 55.834384, "lng": 37.630089 },
+                    "manual_code": "3006",
+                    "name": "Moscow Scale Model",
+                    "qr_code": "VDNH-QR-3006",
+                    "sequence_number": 7
+                },
+                {
+                    "beacon_id": "",
+                    "id": 7,
+                    "location": { "lat": 55.836206, "lng": 37.617835 },
+                    "manual_code": "3007",
+                    "name": "Sochi Hill",
+                    "qr_code": "VDNH-QR-3007",
+                    "sequence_number": 8
+                },
+                {
+                    "beacon_id": "",
+                    "id": 8,
+                    "location": { "lat": 55.840531, "lng": 37.625441 },
+                    "manual_code": "3008",
+                    "name": "Rabbit Breeder Girl",
+                    "qr_code": "VDNH-QR-3008",
+                    "sequence_number": 9
+                },
+                {
+                    "beacon_id": "",
+                    "id": 9,
+                    "location": { "lat": 55.836457, "lng": 37.610885 },
+                    "manual_code": "3009",
+                    "name": "Manchurian Walnut",
+                    "qr_code": "VDNH-QR-3009",
+                    "sequence_number": 10
+                },
+                {
+                    "beacon_id": "",
+                    "id": 10,
+                    "location": { "lat": 55.824554, "lng": 37.614667 },
+                    "manual_code": "3010",
+                    "name": "Apollo",
+                    "qr_code": "VDNH-QR-3010",
+                    "sequence_number": 11
+                }
+            ],
+            "description": "The main exhibition complex of the country and one of the largest parks in Moscow, featuring pavilions, fountains, and museums.",
+            "id": 3,
+            "image_url": "vdnkha",
+            "location": { "lat": 55.829986, "lng": 37.63361 },
+            "name": "VDNH",
+            "tags": ["qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "",
+                    "id": 1,
+                    "location": { "lat": 55.731418, "lng": 37.603406 },
+                    "manual_code": "4001",
+                    "name": "Main Entrance",
+                    "qr_code": "GORKY-QR-4001",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "",
+                    "id": 2,
+                    "location": { "lat": 55.737852, "lng": 37.610318 },
+                    "manual_code": "4002",
+                    "name": "The Lovers Sculpture",
+                    "qr_code": "GORKY-QR-4002",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "",
+                    "id": 3,
+                    "location": { "lat": 55.736468, "lng": 37.609086 },
+                    "manual_code": "4003",
+                    "name": "Muzeon",
+                    "qr_code": "GORKY-QR-4003",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.736884, "lng": 37.606141 },
+                    "manual_code": "4004",
+                    "name": "Embankment",
+                    "qr_code": "GORKY-QR-4004",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "",
+                    "id": 5,
+                    "location": { "lat": 55.735416, "lng": 37.604833 },
+                    "manual_code": "4005",
+                    "name": "Wooden Terrace",
+                    "qr_code": "GORKY-QR-4005",
+                    "sequence_number": 5
+                },
+                {
+                    "beacon_id": "",
+                    "id": 6,
+                    "location": { "lat": 55.731384, "lng": 37.60185 },
+                    "manual_code": "4006",
+                    "name": "Observatory",
+                    "qr_code": "GORKY-QR-4006",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "",
+                    "id": 7,
+                    "location": { "lat": 55.724482, "lng": 37.595839 },
+                    "manual_code": "4007",
+                    "name": "Chinese Bridge",
+                    "qr_code": "GORKY-QR-4007",
+                    "sequence_number": 7
+                }
+            ],
+            "description": "One of the most popular parks in Moscow, featuring a waterfront, sports zones, and cafes.",
+            "id": 4,
+            "image_url": "gorkypark",
+            "location": { "lat": 55.729221, "lng": 37.600892 },
+            "name": "Gorky Park",
+            "tags": ["qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "",
+                    "id": 1,
+                    "location": { "lat": 55.792951, "lng": 37.678024 },
+                    "manual_code": "5001",
+                    "name": "Main Entrance",
+                    "qr_code": "SOKOL-QR-5001",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "",
+                    "id": 2,
+                    "location": { "lat": 55.800692, "lng": 37.677155 },
+                    "manual_code": "5002",
+                    "name": "Lilac Garden",
+                    "qr_code": "SOKOL-QR-5002",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "",
+                    "id": 3,
+                    "location": { "lat": 55.798033, "lng": 37.663834 },
+                    "manual_code": "5003",
+                    "name": "Golden Pond",
+                    "qr_code": "SOKOL-QR-5003",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.810055, "lng": 37.662326 },
+                    "manual_code": "5004",
+                    "name": "Beach",
+                    "qr_code": "SOKOL-QR-5004",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "",
+                    "id": 5,
+                    "location": { "lat": 55.797672, "lng": 37.675108 },
+                    "manual_code": "5005",
+                    "name": "Festival Square",
+                    "qr_code": "SOKOL-QR-5005",
+                    "sequence_number": 5
+                }
+            ],
+            "description": "A vast park with a network of alleys, stages, and recreation areas, one of the oldest parks in Moscow.",
+            "id": 5,
+            "image_url": "sokolniky",
+            "location": { "lat": 55.794229, "lng": 37.67997 },
+            "name": "Sokolniki",
+            "tags": ["qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "",
+                    "id": 1,
+                    "location": { "lat": 55.749491, "lng": 37.62948 },
+                    "manual_code": "6001",
+                    "name": "Floating Bridge",
+                    "qr_code": "ZARYAD-QR-6001",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "",
+                    "id": 2,
+                    "location": { "lat": 55.751459, "lng": 37.627069 },
+                    "manual_code": "6002",
+                    "name": "Media Center",
+                    "qr_code": "ZARYAD-QR-6002",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "",
+                    "id": 3,
+                    "location": { "lat": 55.751251, "lng": 37.630932 },
+                    "manual_code": "6003",
+                    "name": "Zaryadye Amphitheater",
+                    "qr_code": "ZARYAD-QR-6003",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.752451, "lng": 37.628692 },
+                    "manual_code": "6004",
+                    "name": "Znamensky Cathedral",
+                    "qr_code": "ZARYAD-QR-6004",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "",
+                    "id": 5,
+                    "location": { "lat": 55.751088, "lng": 37.62649 },
+                    "manual_code": "6005",
+                    "name": "Mixed Forest",
+                    "qr_code": "ZARYAD-QR-6005",
+                    "sequence_number": 5
+                },
+                {
+                    "beacon_id": "",
+                    "id": 6,
+                    "location": { "lat": 55.750061, "lng": 37.628498 },
+                    "manual_code": "6006",
+                    "name": "Underground Museum",
+                    "qr_code": "ZARYAD-QR-6006",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "",
+                    "id": 7,
+                    "location": { "lat": 55.750314, "lng": 37.626128 },
+                    "manual_code": "6007",
+                    "name": "Riverside Forest",
+                    "qr_code": "ZARYAD-QR-6007",
+                    "sequence_number": 7
+                },
+                {
+                    "beacon_id": "",
+                    "id": 8,
+                    "location": { "lat": 55.752282, "lng": 37.625948 },
+                    "manual_code": "6008",
+                    "name": "St. Barbara Church",
+                    "qr_code": "ZARYAD-QR-6008",
+                    "sequence_number": 8
+                },
+                {
+                    "beacon_id": "",
+                    "id": 9,
+                    "location": { "lat": 55.751612, "lng": 37.625742 },
+                    "manual_code": "6009",
+                    "name": "Moscow Matryoshka Doll",
+                    "qr_code": "ZARYAD-QR-6009",
+                    "sequence_number": 9
+                }
+            ],
+            "description": "A modern park in central Moscow near the Kremlin, combining nature, architecture, and innovation.",
+            "id": 6,
+            "image_url": "zaryadye",
+            "location": { "lat": 55.752635, "lng": 37.628799 },
+            "name": "Zaryadye",
+            "tags": ["qr"]
+        },
+
+        {
+            "checkpoints": [
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819A00",
+                    "id": 1,
+                    "location": { "lat": 55.843793, "lng": 37.521466 },
+                    "manual_code": "7100",
+                    "name": "Fountain",
+                    "qr_code": "GOLOVINSKY-QR-7100",
+                    "sequence_number": 1
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819A12",
+                    "id": 2,
+                    "location": { "lat": 55.843216, "lng": 37.516755 },
+                    "manual_code": "7191",
+                    "name": "Rotunda Gazebo",
+                    "qr_code": "GOLOVINSKY-QR-7191",
+                    "sequence_number": 2
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819E75",
+                    "id": 3,
+                    "location": { "lat": 55.846832, "lng": 37.513212 },
+                    "manual_code": "7511",
+                    "name": "Upper Spillway",
+                    "qr_code": "GOLOVINSKY-QR-7511",
+                    "sequence_number": 3
+                },
+                {
+                    "beacon_id": "",
+                    "id": 4,
+                    "location": { "lat": 55.843443, "lng": 37.513464 },
+                    "manual_code": "7487",
+                    "name": "Three-Hundred-Year-Old Oaks",
+                    "qr_code": "GOLOVINSKY-QR-7487",
+                    "sequence_number": 4
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819E27",
+                    "id": 5,
+                    "location": { "lat": 55.84226, "lng": 37.513192 },
+                    "manual_code": "7227",
+                    "name": "Pier",
+                    "qr_code": "GOLOVINSKY-QR-7227",
+                    "sequence_number": 5
+                },
+                {
+                    "beacon_id": "59E0D1DA-AF5D-47C3-AB2D-2F166DEAD901",
+                    "id": 6,
+                    "location": { "lat": 55.84016, "lng": 37.510048 },
+                    "manual_code": "7599",
+                    "name": "Old Pine",
+                    "qr_code": "GOLOVINSKY-QR-7599",
+                    "sequence_number": 6
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819A17",
+                    "id": 7,
+                    "location": { "lat": 55.83918, "lng": 37.508721 },
+                    "manual_code": "7132",
+                    "name": "Pedestrian Bridge",
+                    "qr_code": "GOLOVINSKY-QR-7132",
+                    "sequence_number": 7
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819F42",
+                    "id": 8,
+                    "location": { "lat": 55.83809, "lng": 37.509411 },
+                    "manual_code": "7292",
+                    "name": "Spillway",
+                    "qr_code": "GOLOVINSKY-QR-7292",
+                    "sequence_number": 8
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819F13",
+                    "id": 9,
+                    "location": { "lat": 55.839475, "lng": 37.50592 },
+                    "manual_code": "7322",
+                    "name": "Gazebo",
+                    "qr_code": "GOLOVINSKY-QR-7322",
+                    "sequence_number": 9
+                },
+                {
+                    "beacon_id": "CF034591-70F8-FAF3-D13B-CD18A0819E45",
+                    "id": 10,
+                    "location": { "lat": 55.836879, "lng": 37.504278 },
+                    "manual_code": "7035",
+                    "name": "Golovinsky Canal",
+                    "qr_code": "GOLOVINSKY-QR-7035",
+                    "sequence_number": 10
+                }
+            ],
+            "description": "A quiet green oasis with ponds and unique pseudo-Gothic architecture by Vasily Bazhenov. The atmosphere is calm and almost provincial, ideal for leisurely walks surrounded by history.",
+            "id": 7,
+            "image_url": "golovinskiye",
+            "location": { "lat": 55.842993, "lng": 37.513044 },
+            "name": "Mikhalkovo Estate Park",
+            "tags": ["qr", "ble"]
+        }
+    ]
+}

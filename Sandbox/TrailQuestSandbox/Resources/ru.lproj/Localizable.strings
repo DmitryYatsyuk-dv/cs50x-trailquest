@@ -1,0 +1,103 @@
+// MARK: - Main
+"app.name" = "TrailQuest";
+
+// MARK: - Common
+"common.cancel" = "Отменить";
+"common.close" = "Закрыть";
+"common.delete" = "Удалить";
+"common.got_it" = "Понятно";
+"common.ok" = "OK";
+"common.settings" = "Настройки";
+
+// MARK: - Tab
+"tab.routes" = "Маршруты";
+"tab.history" = "История";
+"tab.profile" = "Профиль";
+
+// MARK: - TrailList
+"trail_list.title" = "Маршруты";
+"trail_list.failure" = "Не удалось отобразить данные";
+
+// MARK: - TrailDetail
+"trail_detail.start" = "Старт";
+"trail_detail.points_count" = "Число контрольных точек: %d";
+
+// MARK: - TrailActive
+"trail_active.demo_alert" = "Для демонстрации приложение использует тестовый режим.\nВ реальном маршруте потребуется разрешение Bluetooth и камеры.";
+"trail_active.already_visited" = "Вы уже посетили эту локацию!";
+
+// MARK: - Distance
+"distance.km" = "%.1f км";
+"duration.zero_short" = "00:00";
+"duration.zero_long" = "00:00:00";
+
+// MARK: - History
+"history.title" = "История";
+"history.empty" = "Здесь появится\nистория соревнований";
+"history.progress" = "посещено %d из %d";
+
+// MARK: - Summary
+"summary.share_text" = "Я прошёл маршрут %@: %@, время %@.";
+
+// MARK: - Checkin
+"checkin.sheet.subtitle" = "Отметьтесь на контрольной точке,\nодним из способов";
+"checkin.manual.title" = "Ввести код";
+"checkin.manual.placeholder" = "Например, 1284";
+"checkin.manual.invalid" = "Неверный код. Попробуйте снова.";
+"checkin.qr.title" = "Отметиться по QR";
+"checkin.qr.title_demo" = "Отметиться по QR (демо)";
+"checkin.qr.subtitle" = "Наведите камеру на код";
+"checkin.ble.title" = "Автоматическая отметка";
+"checkin.ble.title_demo" = "Автоматическая отметка (демо)";
+"checkin.ble.subtitle" = "Использует BLE-маячок рядом";
+"checkin.demo.note" = "Демо режим. Для демонстрации точки отмечаются автоматически.";
+"checkin.result.success" = "Посещено!";
+"checkin.result.failure" = "Не удалось отметить";
+"checkin.result.retry" = "Попробуйте снова";
+"checkin.ble.search_title" = "Поиск BLE-маячка";
+"checkin.ble.search_message" = "Держите устройство рядом с контрольной точкой. Как только маяк будет найден, отметка станет доступной.";
+"checkin.ble.found" = "Маяк найден";
+"checkin.ble.confirm" = "Подтвердить отметку";
+"checkin.ble.searching" = "Идёт поиск BLE-маячка поблизости…";
+"checkin.ble.alert_title" = "BLE недоступен";
+"checkin.ble.permission_message" = "Разрешите доступ к геопозиции, чтобы отслеживать BLE-маячки и подтверждать посещение точки.";
+
+// MARK: - QR
+"qr.alert.title" = "Нет доступа к камере";
+"qr.permission.denied" = "Доступ к камере отклонён";
+"qr.permission.settings" = "Включите доступ к камере в настройках";
+"qr.permission.default_message" = "Разрешите доступ к камере, чтобы сканировать QR-коды.";
+"qr.camera.unavailable" = "Камера недоступна";
+"qr.camera.configure_failed" = "Не удалось настроить камеру";
+"qr.banner.scanning" = "Сканируем…";
+"qr.instruction" = "Наведите камеру на QR-код контрольной точки";
+"qr.detected" = "QR обнаружен";
+
+// MARK: - Profile
+"profile.title" = "Профиль";
+"profile.delete" = "Удалить профиль";
+"profile.save" = "Сохранить";
+"profile.name.label" = "Имя";
+"profile.photo.update" = "Обновить фото";
+"profile.photo.hint" = "Сделайте фото или выберите изображение из галереи";
+"profile.photo.update_title" = "Обновить фото профиля";
+"profile.photo.take" = "Сделать фото";
+"profile.photo.pick" = "Выбрать из галереи";
+"profile.camera.unavailable_title" = "Камера недоступна";
+"profile.camera.unavailable_message" = "Похоже, камера недоступна на этом устройстве.";
+"profile.delete.confirm_title" = "Удалить профиль?";
+"profile.delete.confirm_message" = "Это удалит все сохранённые данные и фото профиля.";
+"profile.save.success" = "Сохранено";
+
+// MARK: - Onbording
+"onboarding.back" = "Назад";
+"onboarding.start" = "Начать";
+"onboarding.next" = "Далее";
+"onboarding.page1.title" = "Открывай новые маршруты";
+"onboarding.page1.description" = "Выбирай прогулочные, спортивные и культурные маршруты в парках и районах города. Каждый маршрут — это путь с интересными точками и историей.";
+"onboarding.page2.title" = "Проходи чекпоинты по-разному";
+"onboarding.page2.description" = "Отмечай посещение точек с помощью QR-кодов, BLE-маячков или вручную. Несколько способов отметки делают путешествие удобным и интерактивным.";
+"onboarding.page3.title" = "Видишь весь маршрут перед собой";
+"onboarding.page3.description" = "Карта показывает твой прогресс: пройденные точки, расстояние и время. Ты всегда знаешь, что уже сделал и что впереди.";
+"onboarding.page4.title" = "Сохраняй и делись достижениями";
+"onboarding.page4.description" = "История маршрутов сохраняется на устройстве. Делись результатами с друзьями, семьёй или командой.";
