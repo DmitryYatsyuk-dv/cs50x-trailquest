@@ -1,7 +1,7 @@
 # TrailQuest
 
 ## Video
-<URL>
+https://youtu.be/ABbJbTuJaC4
 
 ## Description
 TrailQuest is an offline iOS application that transforms a regular walk into a structured route-based quest with checkpoints and a recorded completion result. This format allows the app to be used not only for casual walks, but also as a foundation for more complex quest-based and event-driven scenarios.
